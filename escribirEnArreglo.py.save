@@ -1,8 +1,0 @@
-nombre=''
-lista=''
-while(nombre != 'salir'):
-	nombre=input('Ingrese el nombre del amigo: ')
-	
-if():
-		lista.insert(nombre)
-print(lista)
